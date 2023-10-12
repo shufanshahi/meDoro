@@ -1,0 +1,9 @@
+# ninja log v5
+1	1038	7188042616115790	meDoro_autogen/timestamp	ac3a19352b48934
+1	1038	7188042616115790	meDoro_autogen/mocs_compilation.cpp	ac3a19352b48934
+1	1038	7188042616115790	E:/Coding101/meDoro/build-meDoro-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/meDoro_autogen/timestamp	ac3a19352b48934
+1	1038	7188042616115790	E:/Coding101/meDoro/build-meDoro-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/meDoro_autogen/mocs_compilation.cpp	ac3a19352b48934
+1039	3054	7188042638109212	CMakeFiles/meDoro.dir/meDoro_autogen/mocs_compilation.cpp.obj	b9413daf30c26666
+1043	3058	7188042638126232	CMakeFiles/meDoro.dir/main.cpp.obj	afdbbff465b6bc8d
+1047	3102	7188042638598557	CMakeFiles/meDoro.dir/mainwindow.cpp.obj	5c602df0608fef34
+3102	3303	7188042640561272	meDoro.exe	1a5a795f515ad0f9

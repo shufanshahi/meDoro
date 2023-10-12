@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-674486d7da08fc2943f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "meDoro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "meDoro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-meDoro-Debug-baf22e999d770b2553ab.json",
+					"name" : "meDoro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "meDoro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-meDoro_autogen-Debug-57212d109f85d0327793.json",
+					"name" : "meDoro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "meDoro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-meDoro_autogen_timestamp_deps-Debug-51b33459512c18d7f5c1.json",
+					"name" : "meDoro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Coding101/meDoro/build-meDoro-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "E:/Coding101/meDoro/meDoro"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
